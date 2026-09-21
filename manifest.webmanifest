@@ -1,0 +1,24 @@
+{
+  "name": "LNB My Career",
+  "short_name": "LNB Career",
+  "description": "Tu carrera de básquet desde formativas hasta la Liga Nacional, Euroliga y NBA.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111e",
+  "theme_color": "#07111e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
